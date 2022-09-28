@@ -1,0 +1,6 @@
+/Users/mostafayoussef/RiderProjects/Ask_Fm/Ask_Fm/bin/Debug/Ask_Fm.exe
+/Users/mostafayoussef/RiderProjects/Ask_Fm/Ask_Fm/bin/Debug/Ask_Fm.pdb
+/Users/mostafayoussef/RiderProjects/Ask_Fm/Ask_Fm/obj/Debug/Ask_Fm.csproj.AssemblyReference.cache
+/Users/mostafayoussef/RiderProjects/Ask_Fm/Ask_Fm/obj/Debug/Ask_Fm.csproj.CoreCompileInputs.cache
+/Users/mostafayoussef/RiderProjects/Ask_Fm/Ask_Fm/obj/Debug/Ask_Fm.exe
+/Users/mostafayoussef/RiderProjects/Ask_Fm/Ask_Fm/obj/Debug/Ask_Fm.pdb
